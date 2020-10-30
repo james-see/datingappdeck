@@ -137,7 +137,7 @@
           t.css(TRANSFORM, "scale(" + zoom + ")");
           sh = t.height() * zoom;
         }
-        return t.css('top', h / 3 - sh / 2);
+        return t.css('top', h / 2 - sh / 2);
       });
     };
     jQuery('#resizeToggle').change(function(e) {
