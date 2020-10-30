@@ -1,3 +1,7 @@
 rm index.html
-mdslide -without-assets-dir -without-css-dir -without-js-dir -i deck.md -o index.html 
+mdslide -i deck.md -o index.html
+rm -rf css
+rm -rf js 
+cp theme/js .
+cp theme/css .
 git yolo
