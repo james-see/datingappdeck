@@ -1,0 +1,13 @@
+:themes:
+  :my-theme:
+    :css:
+      - my-theme.css
+      - color-black.css
+      - transition-crossfade.css
+    :js:
+      - my-theme.js
+:config:
+  :bind: 0.0.0.0
+  :title: "My Slide"
+  :port: 10080
+  :theme: white-crossfade
