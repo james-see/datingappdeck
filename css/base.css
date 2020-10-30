@@ -1,7 +1,6 @@
 body {
 	color: #000;
 	background-color:#fff;
-	font-family: sans-serif;
 }
 .slide {
 	position:absolute;
@@ -56,7 +55,7 @@ body {
 	z-index:200;
 	background-color:#000;
 	color: #fff;
-	font: bold 24px;
+	font: bold 24px sans-serif;
 	border-radius: 4px;
 	padding: 4px;
 	opacity: .6;
