@@ -1,7 +1,8 @@
 DATING IN 2020 IS BROKEN
 ===============
 
-A Paradigm Push By Daniel Golman - October 2020
+A Paradigm Shifting Startup
+Daniel Golman - October 2020
 
 ////
 
