@@ -8,4 +8,5 @@ cp theme/js/* public/js/
 cp theme/css/* public/css/
 cp assets/* public/assets/
 cp index.html public/
+cp surge/CNAME public/
 git yolo
