@@ -1,5 +1,5 @@
 rm index.html
-mdslide -i deck.md -o index.html
+mdslide -T "Dating in 2020" -i deck.md -o index.html
 rm -rf css
 rm -rf js 
 rm -rf public/
